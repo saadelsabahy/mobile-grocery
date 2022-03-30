@@ -1,0 +1,190 @@
+{
+  "tabs": {
+    "home": "home",
+    "categories": "categories",
+    "cart": "cart",
+    "account": "my account",
+    "offers": "offers",
+    "more": "more",
+    "myOrders": "my ordes"
+  },
+  "homeScreen": {
+    "searchPlaceHolder": "search",
+    "recentSearches": "recent earches"
+  },
+  "drawer": {
+    "menu": "menu",
+    "close": "close"
+  },
+  "caregoriesScreen": {},
+  "categoriesDetailesScreen": {
+    "filter": "filter",
+    "sort": "sort",
+    "save": "save",
+    "catigurie": "catigurie",
+    "marka": "marka",
+    "price": "price",
+    "size": "size",
+    "color": "color",
+    "from": "from",
+    "to": "to",
+    "addToCart": "add to cart",
+    "removeFromCart": "remove from cart",
+    "selectedFilters": "selected filters",
+    "reset": "reset"
+  },
+  "favouriteScreen": {
+    "favourite": "favourite",
+    "emptyText": "no favourites"
+  },
+  "productScreen": {
+    "productDetails": "product Details",
+    "productFeatures": "product features",
+    "customerEvaluation": "customer evaluation",
+    "similarProducts": "similar products",
+    "seller": "seller",
+    "seeAllReviews": "see all reviews",
+    "reviews": "reviews",
+    "review": "review product",
+    "share": "share this product"
+  },
+  "accountScreen": {
+    "personalInformation": "personal information",
+    "changeMyPassword": "change my password",
+    "favourite": "wishlist",
+    "myOrders": "my ordes",
+    "customerServices": "customer services",
+    "hotLine": "hot line",
+    "support": "support",
+    "settings": "settings",
+    "whatsapp": "whatsapp",
+    "contactUs": "contact us",
+    "commonQuestions": "common questions",
+    "pushnotification": "push notification"
+  },
+  "myPurchases": {
+    "orderNumber": "order number",
+    "orderDate": "order date",
+    "numberOfProducts": "number Of Products",
+    "orderStatus": "order status",
+    "manufacturer": "manufacturer",
+    "quantity": "quantity",
+    "reorder": "reorder",
+    "orderSummary": "order summary",
+    "deliveryLocation": "delivery location",
+    "emptyOrders": "no orders items found",
+    "reOrderSuccess": "reorder done successfully",
+    "reOrderFailed": "reOrderFailed"
+  },
+  "cart": {
+    "payNow": "pay now",
+    "total": "total",
+    "emptyText": "no cart items found",
+    "remove": "remove",
+    "backToCart": "back to cart",
+    "addItems": "add items",
+    "removeDialog": "You’re about to remove an item from your cart",
+    "goToCart": "go to cart"
+  },
+
+  "general": {
+    "applyChanges": "apply changes",
+    "refresh": "refresh {{name}}",
+    "edit": "edit",
+    "delete": "delete",
+    "editPassword": "edit password",
+    "change": "change",
+    "viewAll": "view all",
+    "discount": "off",
+    "cancel": "cancel",
+    "clearAll": "clear all",
+    "other": "other",
+    "confirm": "confirm"
+  },
+  "inputs": {
+    "firstName": "first name",
+    "lastName": "last name",
+    "email": "email",
+    "telephone": "phone number",
+    "password": "password",
+    "placeholder": "Please enter your {{fieldName}}",
+    "name": "name",
+    "newPassword": "new password",
+    "confirmPassword": "confirm password",
+    "securityCode": "security code",
+    "reviewComment": "comment",
+    "country": "country",
+    "zone": "zone",
+    "area": "area",
+    "city": "city",
+    "addressDetails": "address details",
+    "postCode": "zip code"
+  },
+  "auth": {
+    "signIn": "sign in",
+    "signUp": "sign up",
+    "createAccount": "create account",
+    "createAccountParagraph": "Enter your Name, Email and Password for sign up.",
+    "forgetPassword": "forget password ?",
+    "forgetPassParagraph": "Please insert the security code sent to your email",
+
+    "alreadyHaveAccount": "already have account ?",
+    "registerNow": "register now",
+    "continue": "continue",
+    "signOut": "sign out",
+    "resetPasswordText": "please enter your email and you will receive message to reset password",
+    "compeleteProfile": "compelete profile",
+    "welcome": "welcome to",
+    "loginParagraph": "Enter your {{authType}} for Register",
+    "loginWithGoogle": "Connect with google",
+    "loginWithFacebook": "Connect with Facebook",
+    "loginWithApple": "Connect with apple",
+    "or": "or",
+    "selectYourCountry": "select your country",
+    "verficationParagraph": "Enter the 4-Digit code sent to you at",
+    "confirmAccount": "verify account",
+    "notRecieveCode": "Didn’t receive code?",
+    "resendCode": "resend code.",
+    "signPolicy": "By Signing up you agree to our Terms Conditions & Privacy Policy.",
+    "submit": "submit"
+  },
+  "validation": {
+    "required": "{{fieldName}} is required",
+    "emailFormat": "invalid email format",
+    "minLength": "{{fieldName}} must be at least {{minLength}} chars",
+    "confirmPassword": "don't match{{fieldName}}",
+    "wrongPhone": "wrong phone number"
+  },
+  "messages": {
+    "addedToCart": "added to cart",
+    "notAddedToCart": " not added to cart",
+    "checkInfoAndRetry": "something went wrong please check informations and try again",
+    "noInternet": "no internet... ",
+    "noData": "no data founded",
+    "socialMobileIdentity": "social login not available when login type is phone",
+    "doneSuccessfuly": "done successfuly",
+    "signoutSuccessfuly": "signout Successfuly"
+  },
+  "localization": {
+    "language": "language",
+    "chooseLang": "choose your language"
+  },
+  "moreScreen": {
+    "notifications": "notifications",
+    "referToFriends": "refer To friends",
+    "rateUs": "rate us",
+    "faq": "f a q",
+    "accountSettings": "account settings",
+    "profileInfo": "profile info",
+    "locations": "Address Book",
+    "headerSubText": "Update your settings like notifications, payments, profile edit etc."
+  },
+  "addAddress": {
+    "add": "add",
+    "addAddress": "add address",
+    "addAddressSuccess": "add address success",
+    "noAddressesMessage": "please add address",
+    "noAddresses": "no added addresses",
+    "editAddress": "edit address"
+  }
+}

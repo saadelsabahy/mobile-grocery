@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831283984513",
+    "project_id": "grocery-c5340",
+    "storage_bucket": "grocery-c5340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831283984513:android:26f19b8606632e258bb580",
+        "android_client_info": {
+          "package_name": "com.expandcart.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831283984513-r6ddn3k3jdslgik5kc37tgcdrn2urg08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QQWAm4dCXOtfauz0j-QEykM-cdwLQ9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831283984513-r6ddn3k3jdslgik5kc37tgcdrn2urg08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

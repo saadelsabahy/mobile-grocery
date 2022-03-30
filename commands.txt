@@ -1,0 +1,9 @@
+npx yarn react-native 
+generate-bootsplash F:\work\ReactNative\ExpandCart\Grocery\Grocery\src\assets\images\LOGO.png \ --background-color=22a45d \ --logo-width=150 \ --assets-path=F:\work\ReactNative\ExpandCart\Grocery\Grocery\src\assets
+
+
+for release sh1====>go to java bin===>open cmd===> keytool -list -v -keystore F:\work\ReactNative\ExpandCart\Grocery\Grocery\android\app\my-upload-key.keystore ===>pass keystorepass in gradle.properties
+
+for debug sh1====>keytool -list -v -alias androiddebugkey -keystore ./android/app/debug.keystore ===>pass android
+
+key hash for facebook login===>1.get sh1 ===>put sh1 in this website==>http://fbkeyhash.com/index.php or http://tomeko.net/online_tools/hex_to_base64.php

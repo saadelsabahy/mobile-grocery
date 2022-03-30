@@ -1,0 +1,189 @@
+{
+  "tabs": {
+    "home": "الرئيسيه",
+    "categories": "الأقسام",
+    "cart": "السله",
+    "account": "حسابي",
+    "offers": "العروض",
+    "more": "المزيد",
+    "myOrders": "طلباتي"
+  },
+  "homeScreen": {
+    "searchPlaceHolder": "البحث",
+    "recentSearches": "عمليات البحث الأخيرة"
+  },
+  "drawer": {
+    "menu": "القائمه",
+    "close": "اغلاق"
+  },
+  "caregoriesScreen": {},
+  "categoriesDetailesScreen": {
+    "filter": "تصفيه",
+    "sort": "ترتيب",
+    "save": "حفظ",
+    "catigurie": "الصنف",
+    "marka": "العلامه",
+    "price": "السعر",
+    "size": "المقاس",
+    "color": "اللون",
+    "from": "من",
+    "to": "إلي",
+    "addToCart": "أضف إلي السله",
+    "removeFromCart": "حذف من السله",
+    "selectedFilters": "التصفيات المختاره",
+    "reset": "حذف الكل"
+  },
+  "favouriteScreen": {
+    "favourite": "المفضله",
+    "emptyText": "لايوجد منتجات مفضله"
+  },
+  "productScreen": {
+    "productDetails": "تفاصيل المنتج",
+    "productFeatures": "سمات المنتج",
+    "customerEvaluation": "تقيم العملاء",
+    "similarProducts": "منتجات مشابهه",
+    "seller": "البائع",
+    "seeAllReviews": "مشاهده كل التقيمات",
+    "reviews": "التقيمات",
+    "review": "تقييم المنتج",
+    "share": "مشاركه هذا المنتج"
+  },
+  "accountScreen": {
+    "personalInformation": "المعلومات الشخصيه",
+    "changeMyPassword": "تغير كلمه المرور",
+    "favourite": "قائمه الأمنيات",
+    "myOrders": "طلباتي",
+    "customerServices": "خدمه العملاء",
+    "hotLine": "الخط الساخن",
+    "support": "الدعم",
+    "settings": "الإعدادات",
+    "whatsapp": "نحدث واتساب",
+    "contactUs": "اتصل بنا",
+    "commonQuestions": "الاسئله الشائعه",
+    "pushnotification": "التنبيهات"
+  },
+  "myPurchases": {
+    "orderNumber": "رقم الطلب",
+    "orderDate": "تاريخ الطلب",
+    "numberOfProducts": "عدد المنتجات",
+    "orderStatus": "حاله الطلب",
+    "manufacturer": "المصنع",
+    "quantity": "الكميه",
+    "reorder": "إعاده الطلب",
+    "orderSummary": "ملخص الطلب",
+    "deliveryLocation": "مكان التسليم",
+    "emptyOrders": "لايوجد منتجات  مطلوبه",
+    "reOrderSuccess": "تمت اعاده الطلب بنجاح",
+    "reOrderFailed": "لم تتم اعاده الطلب بنجاح"
+  },
+  "cart": {
+    "payNow": "إدفع الأن",
+    "total": "الإجمالي",
+    "emptyText": "لايوجد منتجات في السله",
+    "remove": "حذف",
+    "backToCart": "العوده الي السله",
+    "addItems": "إضافه منتجات",
+    "removeDialog": "أنت على وشك إزالة عنصر من سلة التسوق",
+    "goToCart": "الذهاب الي السله"
+  },
+
+  "general": {
+    "applyChanges": "حفظ التعديلات",
+    "refresh": "تحديث {{name}} ",
+    "edit": "تعديل",
+    "editPassword": "تعديل كلمه المرور",
+    "delete": "حذف",
+    "change": "تبديل",
+    "viewAll": "مشاهده الكل",
+    "discount": "خصم",
+    "cancel": "إلغاء",
+    "clearAll": "حذف الكل",
+    "other": "أخري",
+    "confirm": "تأكيد"
+  },
+  "inputs": {
+    "firstName": "الإسم الأول",
+    "lastName": "الإسم الأخير",
+    "email": "البريد الإلكتروني",
+    "telephone": "رقم الهاتف",
+    "password": "كلمه المرور",
+    "placeholder": "برجاء إدخال {{fieldName}}",
+    "name": "الاسم",
+    "newPassword": "كلمه المرور الجديده",
+    "confirmPassword": "تأكيد كلمه المرور",
+    "securityCode": "كود التفعيل",
+    "reviewComment": "التعليق",
+    "country": "الدوله",
+    "zone": "المحافظه",
+    "area": "المنطقه",
+    "city": "المدينه",
+    "addressDetails": "تفاصيل العنوان",
+    "postCode": "الرقم البريدي"
+  },
+  "auth": {
+    "signIn": "تسجيل الدخول",
+    "signUp": "تسجيل حساب جديد",
+    "createAccount": "إنشاء حساب",
+    "createAccountParagraph": "أدخل الاسم والبريد الإلكتروني وكلمة المرور  للتسجيل",
+    "forgetPassword": "نسيت كلمه المرور ؟",
+    "forgetPassParagraph": "الرجاء إدخال رمز الأمان المرسل إلى بريدك الإلكتروني",
+    "alreadyHaveAccount": "لديك حساب بالفعل ؟",
+    "registerNow": "سجل الأن",
+    "continue": "متابعه",
+    "signOut": "تسجيل الخروج",
+    "resetPasswordText": "برجاء ادخال البريد الالكتروني وسوف تستقبل رساله لاعاده ضبط الرقم السري",
+    "compeleteProfile": "استكمال الحساب",
+    "welcome": "أهلا بك",
+    "loginParagraph": "ادخل {{authType}} لإنشاء الحساب والدخول",
+    "loginWithGoogle": "التسجيل عن طريق جوجل",
+    "loginWithFacebook": "التسجيل عن طريق فيسبوك",
+    "loginWithApple": "التسجيل عن طريق ابل",
+    "or": "أو",
+    "selectYourCountry": "اختر دولتك",
+    "verficationParagraph": "برجاء ادخال ال ٤-ارقام المرسله الي",
+    "confirmAccount": "تأكيد الحساب",
+    "notRecieveCode": "لم استقبل الرمز ؟",
+    "resendCode": "إعاده ارسال الرمز",
+    "signPolicy": "اذا قمت بالتسجيل فإنك توافق علي الشروط والخصوصيه",
+    "submit": "إرسال"
+  },
+  "validation": {
+    "required": "{{fieldName}} مطلوب",
+    "emailFormat": "صيغه بريد إلكتروني خاطئه",
+    "minLength": "{{fieldName}} لابد أن يكون {{minLength}} حروف",
+    "confirmPassword": "لاتطابق {{fieldName}}",
+    "wrongPhone": "رقم الهاتف غير صحيح"
+  },
+  "messages": {
+    "addedToCart": "تمت اضافته للسله",
+    "notAddedToCart": "لم يتم اضافته للسله",
+    "checkInfoAndRetry": "حدث خطأ برجاء التأكد من المعلومات والمحاوله مره اخري",
+    "noInternet": "...لايوجد إتصال بالإنترنت",
+    "noData": "لاتوجد منتجات",
+    "socialMobileIdentity": "التسجيل باستخدام وسائل التواصل الاجتماعي غير متاح عندما يكون التسجيل باستخدام رقم الهاتف",
+    "doneSuccessfuly": "تمت العمليه بنجاح",
+    "signoutSuccessfuly": "تم تسجيل الخروج  بنجاح"
+  },
+  "localization": {
+    "language": "اللغه",
+    "chooseLang": "اختر لغتك"
+  },
+  "moreScreen": {
+    "notifications": "التنبيهات",
+    "referToFriends": "مشاركه مع الأصدقاء",
+    "rateUs": "قيمنا",
+    "faq": "التعليمات",
+    "accountSettings": "إعدادات الحساب",
+    "profileInfo": "معلومات الحساب",
+    "locations": "العناوين",
+    "headerSubText": "قم بتحديث إعداداتك مثل الإشعارات والمدفوعات وتعديل الملف الشخصي وما إلى ذلك."
+  },
+  "addAddress": {
+    "add": "اضافه",
+    "addAddress": "اضافه عنوان",
+    "addAddressSuccess": "تم اضافه عنوان بنجاح",
+    "noAddressesMessage": "برجاء اضافه عنوان",
+    "noAddresses": "لايوجد عناوين مضافه",
+    "editAddress": "تعديل العنوان"
+  }
+}
